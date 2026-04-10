@@ -1,16 +1,46 @@
-## Hi there 👋
+<h1 align="center">☕ Jhonatan Oliveira</h1>
 
-<!--
-**JhonatanOliveira18/jhonatanoliveira18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center"><code>Estudante de Desenvolvimento de Sistemas FullStack</code></h3>
 
-Here are some ideas to get you started:
+## 🧑🏿‍💻 Sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+✈️ Participando do BootCamp Desenvolvedor Java FullStack pela Generation.
+<br>
+🌐 Cursando Desenvolvimento de Sistemas pelo SENAC.
+<br>
+⚙️ Possuo formação técnica presencial pelo SENAI (240h+) | JAVA, BANCO DE DADOS, JAVA-SCRIPT, HTML e CSS.
+
+
+
+## 🤖 Linguagens e Tecnologias
+
+<br>
+<br>
+
+<div align="center">
+  <img title="JAVA" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" style="margin: 5px;" />
+  <img title="MySQL" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" style="margin: 5px;" />
+  <img title="Spring" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" style="margin: 5px;" />
+  <img title="HTML" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" style="margin: 5px;" />
+  <img title="CSS" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" style="margin: 5px;" />
+  <img title="JavaScript" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" style="margin: 5px;" />
+  <img title="Git" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" style="margin: 5px;" />
+</div>
+
+<br/>
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=jhonatanoliveira18&show_icons=true&theme=dark" height="150"/>
+   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jhonatanoliveira18&layout=compact&theme=dark&langs_count=8" height="170" alt="Linguagens mais usadas"/>
+</div>
+
+<br/>
+<br/>
+
+---
+
+<div align="center"> 
+  <a href="https://www.instagram.com/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/jhonatan-oliveira-b84428277/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
