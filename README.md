@@ -32,7 +32,6 @@
 
 <div align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=jhonatanoliveira18&show_icons=true&theme=dark" height="150"/>
-   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jhonatanoliveira18&layout=compact&theme=dark&langs_count=8" height="170" alt="Linguagens mais usadas"/>
 </div>
 
 <br/>
