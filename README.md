@@ -4,7 +4,7 @@
 
 ## 🧑🏿‍💻 Sobre mim
 
-✈️ Participando do BootCamp Desenvolvedor Java FullStack pela Generation.
+✈️ Formado pelo BootCamp Desenvolvedor Java FullStack da Generation.
 <br>
 🌐 Cursando Desenvolvimento de Sistemas pelo SENAC.
 <br>
